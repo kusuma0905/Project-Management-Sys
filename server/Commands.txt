@@ -1,0 +1,4 @@
+npm install express cors nodemon 
+mkdir src
+cd src
+mkdir controller models middleware routes config db
